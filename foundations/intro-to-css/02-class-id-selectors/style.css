@@ -1,0 +1,27 @@
+.para {
+    background: lightpink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#myNumber1 {
+    color: blue;
+    font-size: 36px;
+}
+
+
+
+.custom-class {
+    font-size: 24px;
+}
+
+#myNumber2 {
+    
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+
+
+
